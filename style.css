@@ -613,7 +613,7 @@ h3.cart-title {
     background-color: var(--light-blue-color);
 }
 #header-nav .offcanvas-end {
-    width: 500px;
+    width: 300px;
 }
 .offcanvas.show .nav-item a.nav-link {
     font-size: 2em;
