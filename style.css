@@ -616,7 +616,7 @@ h3.cart-title {
     width: 300px;
 }
 .offcanvas.show .nav-item a.nav-link {
-    font-size: 2em;
+    font-size: 1.4em;
 }
 .offcanvas.show .offcanvas-body .navbar-nav {
     align-items: unset!important;
